@@ -1,0 +1,267 @@
+{
+	"general-caocao": {
+		"name": "general-caocao",
+		"disp": "曹操",
+		"sex": "男",
+		"force": "魏",
+		"lord": true,
+		"skill": [
+			"skill-jianxiong",
+			"skill-hujia"
+		]
+	},
+	"general-simayi": {
+		"name": "general-simayi",
+		"disp": "司马懿",
+		"sex": "男",
+		"force": "魏",
+		"lord": false,
+		"skill": [
+			"skill-fankui",
+			"skill-guicai"
+		]
+	},
+	"general-xiahoudun": {
+		"name": "general-xiahoudun",
+		"disp": "夏侯惇",
+		"sex": "男",
+		"force": "魏",
+		"lord": false,
+		"skill": [
+			"skill-ganlie"
+		]
+	},
+	"general-zhangliao": {
+		"name": "general-zhangliao",
+		"disp": "张辽",
+		"sex": "男",
+		"force": "魏",
+		"lord": false,
+		"skill": [
+			"skill-tuxi"
+		]
+	},
+	"general-xuchu": {
+		"name": "general-xuchu",
+		"disp": "许褚",
+		"sex": "男",
+		"force": "魏",
+		"lord": false,
+		"skill": [
+			"skill-luoyi"
+		]
+	},
+	"general-guojia": {
+		"name": "general-guojia",
+		"disp": "郭嘉",
+		"sex": "男",
+		"force": "魏",
+		"lord": false,
+		"skill": [
+			"skill-tiandu",
+			"skill-yiji"
+		]
+	},
+	"general-zhenji": {
+		"name": "general-zhenji",
+		"disp": "甄姬",
+		"sex": "女",
+		"force": "魏",
+		"lord": false,
+		"skill": [
+			"skill-qingguo",
+			"skill-luoshen"
+		]
+	},
+	"general-liubei": {
+		"name": "general-liubei",
+		"disp": "刘备",
+		"sex": "男",
+		"force": "蜀",
+		"lord": true,
+		"skill": [
+			"skill-rende",
+			"skill-jijiang"
+		]
+	},
+	"general-guanyu": {
+		"name": "general-guanyu",
+		"disp": "关羽",
+		"sex": "男",
+		"force": "蜀",
+		"lord": false,
+		"skill": [
+			"skill-wusheng"
+		]
+	},
+	"general-zhangfei": {
+		"name": "general-zhangfei",
+		"disp": "张飞",
+		"sex": "男",
+		"force": "蜀",
+		"lord": false,
+		"skill": [
+			"skill-paoxiao"
+		]
+	},
+	"general-zhugeliang": {
+		"name": "general-zhugeliang",
+		"disp": "诸葛亮",
+		"sex": "男",
+		"force": "蜀",
+		"lord": false,
+		"skill": [
+			"skill-guanxing",
+			"skill-kongcheng"
+		]
+	},
+	"general-zhaoyun": {
+		"name": "general-zhaoyun",
+		"disp": "赵云",
+		"sex": "男",
+		"force": "蜀",
+		"lord": false,
+		"skill": [
+			"skill-longdan"
+		]
+	},
+	"general-machao": {
+		"name": "general-machao",
+		"disp": "马超",
+		"sex": "男",
+		"force": "蜀",
+		"lord": false,
+		"skill": [
+			"skill-mashu",
+			"skill-tieji"
+		]
+	},
+	"general-huangyueying": {
+		"name": "general-huangyueying",
+		"disp": "黄月英",
+		"sex": "女",
+		"force": "蜀",
+		"lord": false,
+		"skill": [
+			"skill-jizhi",
+			"skill-jinnang"
+		]
+	},
+	"general-sunquan": {
+		"name": "general-sunquan",
+		"disp": "孙权",
+		"sex": "男",
+		"force": "吴",
+		"lord": true,
+		"skill": [
+			"skill-zhiheng",
+			"skill-jiuyuan"
+		]
+	},
+	"general-ganning": {
+		"name": "general-ganning",
+		"disp": "甘宁",
+		"sex": "男",
+		"force": "吴",
+		"lord": false,
+		"skill": [
+			"skill-qixi"
+		]
+	},
+	"general-lvmeng": {
+		"name": "general-lvmeng",
+		"disp": "吕蒙",
+		"sex": "男",
+		"force": "吴",
+		"lord": false,
+		"skill": [
+			"skill-keji"
+		]
+	},
+	"general-huanggai": {
+		"name": "general-huanggai",
+		"disp": "黄盖",
+		"sex": "男",
+		"force": "吴",
+		"lord": false,
+		"skill": [
+			"skill-kurou"
+		]
+	},
+	"general-zhouyu": {
+		"name": "general-zhouyu",
+		"disp": "周瑜",
+		"sex": "男",
+		"force": "吴",
+		"lord": false,
+		"skill": [
+			"skill-yingzi",
+			"skill-fanjian"
+		]
+	},
+	"general-daqiao": {
+		"name": "general-daqiao",
+		"disp": "大乔",
+		"sex": "女",
+		"force": "吴",
+		"lord": false,
+		"skill": [
+			"skill-guose",
+			"skill-liuli"
+		]
+	},
+	"general-luxun": {
+		"name": "general-luxun",
+		"disp": "陆逊",
+		"sex": "男",
+		"force": "吴",
+		"lord": false,
+		"skill": [
+			"skill-qianxun",
+			"skill-lianying"
+		]
+	},
+	"general-sunshangxiang": {
+		"name": "general-sunshangxiang",
+		"disp": "孙尚香",
+		"sex": "女",
+		"force": "吴",
+		"lord": false,
+		"skill": [
+			"skill-jieyin",
+			"skill-xiaoji"
+		]
+	},
+	"general-huatuo": {
+		"name": "general-huatuo",
+		"disp": "华佗",
+		"sex": "男",
+		"force": "群",
+		"lord": false,
+		"skill": [
+			"skill-急救",
+			"skill-青囊"
+		]
+	},
+	"general-lvbu": {
+		"name": "general-lvbu",
+		"disp": "吕布",
+		"sex": "男",
+		"force": "群",
+		"lord": false,
+		"skill": [
+			"skill-wushuang"
+		]
+	},
+	"general-diaochan": {
+		"name": "general-diaochan",
+		"disp": "貂蝉",
+		"sex": "女",
+		"force": "群",
+		"lord": false,
+		"skill": [
+			"skill-lijian",
+			"skill-biyue"
+		]
+	}
+}

@@ -1,0 +1,152 @@
+[
+	{
+		"suit": "spade",
+		"poin": "7",
+		"type": "card-kill"
+	},
+	{
+		"suit": "spade",
+		"poin": "8",
+		"type": "card-kill"
+	},
+	{
+		"suit": "spade",
+		"poin": "8",
+		"type": "card-kill"
+	},
+	{
+		"suit": "spade",
+		"poin": "9",
+		"type": "card-kill"
+	},
+	{
+		"suit": "spade",
+		"poin": "9",
+		"type": "card-kill"
+	},
+	{
+		"suit": "spade",
+		"poin": "10",
+		"type": "card-kill"
+	},
+	{
+		"suit": "spade",
+		"poin": "10",
+		"type": "card-kill"
+	},
+	{
+		"suit": "club",
+		"poin": "2",
+		"type": "card-kill"
+	},
+	{
+		"suit": "club",
+		"poin": "3",
+		"type": "card-kill"
+	},
+	{
+		"suit": "club",
+		"poin": "4",
+		"type": "card-kill"
+	},
+	{
+		"suit": "club",
+		"poin": "5",
+		"type": "card-kill"
+	},
+	{
+		"suit": "club",
+		"poin": "6",
+		"type": "card-kill"
+	},
+	{
+		"suit": "club",
+		"poin": "7",
+		"type": "card-kill"
+	},
+	{
+		"suit": "club",
+		"poin": "8",
+		"type": "card-kill"
+	},
+	{
+		"suit": "club",
+		"poin": "8",
+		"type": "card-kill"
+	},
+	{
+		"suit": "club",
+		"poin": "9",
+		"type": "card-kill"
+	},
+	{
+		"suit": "club",
+		"poin": "9",
+		"type": "card-kill"
+	},
+	{
+		"suit": "club",
+		"poin": "10",
+		"type": "card-kill"
+	},
+	{
+		"suit": "club",
+		"poin": "10",
+		"type": "card-kill"
+	},
+	{
+		"suit": "club",
+		"poin": "11",
+		"type": "card-kill"
+	},
+	{
+		"suit": "club",
+		"poin": "11",
+		"type": "card-kill"
+	},
+	{
+		"suit": "heart",
+		"poin": "10",
+		"type": "card-kill"
+	},
+	{
+		"suit": "heart",
+		"poin": "10",
+		"type": "card-kill"
+	},
+	{
+		"suit": "heart",
+		"poin": "11",
+		"type": "card-kill"
+	},
+	{
+		"suit": "diamond",
+		"poin": "6",
+		"type": "card-kill"
+	},
+	{
+		"suit": "diamond",
+		"poin": "7",
+		"type": "card-kill"
+	},
+	{
+		"suit": "diamond",
+		"poin": "8",
+		"type": "card-kill"
+	},
+	{
+		"suit": "diamond",
+		"poin": "9",
+		"type": "card-kill"
+	},
+	{
+		"suit": "diamond",
+		"poin": "10",
+		"type": "card-kill"
+	},
+	{
+		"suit": "diamond",
+		"poin": "13",
+		"type": "card-kill"
+	}
+]

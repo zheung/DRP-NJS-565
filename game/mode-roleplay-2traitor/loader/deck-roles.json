@@ -1,0 +1,76 @@
+{
+	"2": [
+		"role-lord",
+		"role-rebel"
+	],
+	"3": [
+		"role-lord",
+		"role-rebel",
+		"role-traitor"
+	],
+	"4": [
+		"role-lord",
+		"role-loyal",
+		"role-rebel",
+		"role-traitor"
+	],
+	"5": [
+		"role-lord",
+		"role-loyal",
+		"role-rebel",
+		"role-rebel",
+		"role-traitor"
+	],
+	"6": [
+		"role-lord",
+		"role-loyal",
+		"role-rebel",
+		"role-rebel",
+		"role-rebel",
+		"role-traitor"
+	],
+	"7": [
+		"role-lord",
+		"role-loyal",
+		"role-loyal",
+		"role-rebel",
+		"role-rebel",
+		"role-rebel",
+		"role-traitor"
+	],
+	"8": [
+		"role-lord",
+		"role-loyal",
+		"role-loyal",
+		"role-rebel",
+		"role-rebel",
+		"role-rebel",
+		"role-rebel",
+		"role-traitor"
+	],
+	"9": [
+		"role-lord",
+		"role-loyal",
+		"role-loyal",
+		"role-loyal",
+		"role-rebel",
+		"role-rebel",
+		"role-rebel",
+		"role-rebel",
+		"role-rebel",
+		"role-traitor"
+	],
+	"10": [
+		"role-lord",
+		"role-loyal",
+		"role-loyal",
+		"role-loyal",
+		"role-rebel",
+		"role-rebel",
+		"role-rebel",
+		"role-rebel",
+		"role-rebel",
+		"role-traitor",
+		"role-traitor"
+	]
+}

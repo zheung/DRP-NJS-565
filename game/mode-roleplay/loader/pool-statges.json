@@ -1,0 +1,22 @@
+{
+	"statge-position-random": {
+		"name": "statge-position-random",
+		"disp": "位置选择阶段",
+		"file": "./game/statge/statge-position-random"
+	},
+	"statge-role-random": {
+		"name": "statge-role-random",
+		"disp": "位置选择阶段",
+		"file": "./game/statge/statge-role-random"
+	},
+	"statge-general-pick": {
+		"name": "statge-general-pick",
+		"disp": "武将选择阶段",
+		"file": "./game/statge/statge-general-pick"
+	},
+	"statge-game-start": {
+		"name": "statge-game-start",
+		"disp": "游戏开始阶段",
+		"file": "./game/statge/statge-game-start"
+	}
+}

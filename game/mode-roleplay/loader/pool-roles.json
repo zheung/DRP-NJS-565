@@ -1,0 +1,22 @@
+{
+	"role-lord": {
+		"name": "role-lord",
+		"disp": "主公",
+		"file": "./game/role/role-lord"
+	},
+	"role-loyal": {
+		"name": "role-loyal",
+		"disp": "忠臣",
+		"file": "./game/role/role-loyal"
+	},
+	"role-rebel": {
+		"name": "role-rebel",
+		"disp": "反贼",
+		"file": "./game/role/role-rebel"
+	},
+	"role-traitor": {
+		"name": "role-traitor",
+		"disp": "内奸",
+		"file": "./game/role/role-traitor"
+	}
+}

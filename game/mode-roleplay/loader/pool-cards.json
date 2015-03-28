@@ -1,0 +1,7 @@
+{
+	"card-kill": {
+		"name": "card-kill",
+		"disp": "杀",
+		"file": "./game/card/card-kill"
+	}
+}

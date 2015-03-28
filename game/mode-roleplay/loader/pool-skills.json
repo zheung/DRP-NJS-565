@@ -1,0 +1,12 @@
+{
+	"skill-longdan": {
+		"name": "skill-longdan",
+		"name": "龙胆",
+		"file": "./game/skill/skill-longdan"
+	},
+	"skill-paoxiao": {
+		"name": "skill-paoxiao",
+		"name": "咆哮",
+		"file": "./game/skill/skill-paoxiao"
+	}
+}
