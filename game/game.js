@@ -6,7 +6,7 @@ exports.deck = require("./deck");
 exports.players = [];
 exports.mode;
 
-exports.events = new require("events").EventEmitter();
+exports.events = new events.EventEmitter();
 
 exports.emitAll = function()
 {
@@ -26,7 +26,7 @@ exports.poll = function(players, question, emitEnd, preFunc, dealFunc, endFunc)
 			
 			players.splice(0, 1);
 			
-			exports.questAll(players, question, choices, emitEnd, dealFunc, endFunc);
+			exports.questAll(players, question, choice, emitEnd, dealFunc, endFunc);
 
 		});
 
@@ -60,9 +60,9 @@ exports.init = function(mode, users)
 				alert("触发事件["+evenName+"]");
 				mode.pool.events[evenName].flow(exports);
 			});
-		})(evenName);
+	 	})(evenName);
 	}
-}
+};
 
 exports.flow = function()
 {
